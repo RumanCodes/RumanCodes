@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AlgorithmsUnlocks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AlgorithmsUnlocks (Ruman Ahmed)
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on submitted code for all who need this
+- 📫 How to reach me --> Email : algorithmsunlocks@gmail.com
 
-<!---
-AlgorithmsUnlocks/AlgorithmsUnlocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
