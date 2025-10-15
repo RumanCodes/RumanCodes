@@ -14,7 +14,7 @@ I'm a developer who thrives at the intersection of creation and problem-solving.
 - 🔭 I’m currently working on **WordPress plugins and custom automations**.
 - 🌱 I’m continuously learning about **software architecture, Vue.js, and Node.js**.
 - 💬 Ask me about **WordPress, PHP, JavaScript, FluentCart, or technical troubleshooting**.
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **ruman.authlab@gmail.com**
 - ⚡ Fun fact: I believe the best debugger is a good night's sleep.
 
 ---
