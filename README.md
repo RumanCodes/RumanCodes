@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I’m Ruman Ahmed</h1>
+<h1 align="center"> Hi, I’m Ruman Ahmed</h1>
 <h3 align="center">A passionate Software Developer & Technical Support Engineer crafting solutions for the web.</h3>
 
 <p align="center">
