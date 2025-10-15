@@ -1,130 +1,72 @@
+# 👋 Hello, I’m Ruman Ahmed (RumanCodes)
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+**Software Developer & Technical Support Engineer**  
+Building WordPress plugins, automating workflows, and helping people fix things.
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+---
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://algounlocks.com">Ruman Ahmed</a></b>
-        </samp>
-</h3>
+## 🧠 What I Do
 
+I specialize in:
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Ruman+Ahmed">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web appplication developer from <b> Bangladesh </b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+- WordPress plugin development & extension (FluentCart, Fluent Forms, WooCommerce)  
+- JavaScript & PHP (including Vue, Node, custom APIs)  
+- Troubleshooting, debugging, and technical support  
+- Integrations, automations, and clean architecture
 
-<p align="center">
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ruman" />
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruman"/>
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ruman" />
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ruman" />
- </a> 
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ruman"  />
-  </a> 
-</p>
-<br />
+---
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ruman.authlab@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/algorithmsunlocks)
+## 🚀 Featured Projects
 
-</p>
+These are my top works (not just forks):
 
-<br/>
-<br/>
-<br/>
+| Project | Description |
+|---|---|
+| **FluentCart Reset Addon** | Plugin to safely reset FluentCart data via WordPress admin |
+| **Form Automation Toolkit** | Scripts and mini-apps that automate form workflows |
+| **Support Utility Scripts** | Tools I use for diagnostics, logs, cleanups, etc. |
+| **Laravel App / Other Web Projects** | Various side projects covering API, frontend, backend |
 
-## Use To Code
+*(Click on any project name above to see it — I pin these in my profile too.)*
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+---
 
-<!--
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠 Tech Stack & Tools
 
--->
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 
-<br/>
+Additional: Node.js, REST APIs, Composer, Git, Vite, ESLint, etc.
 
-## Top Open Source -
-<!--
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
+---
 
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
--->
+![Ruman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=RumanCodes&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RumanCodes&layout=compact&theme=tokyonight)
 
-<br/>
-<hr/>
-<br/>
+---
 
-<p align="center">
-  <a href="https://github.com/algorithmsunlocks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorithmsunlocks&theme=radical&border=7F3FBF&background=0D1117" alt="Ruman's GitHub streak"/>
-  </a>
-</p>
+## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://github.com/algorithmsunlocks">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithmsunlocks&theme=radical" alt="Ruman's GitHub Contribution"/>
-  </a>
-</p>
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-link)  
+- Portfolio / Website: [yourwebsite.com](https://yourwebsite.com)  
+- Email: youremail@example.com  
 
-<a> 
-    <a href="https://github.com/algorithmsunlocks"><img alt="Ruman Ahmed Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=algorithmsunlocks&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/algorithmsunlocks"><img alt="Ruman Ahmed Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=algorithmsunlocks&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+> “Code must help people, not frustrate them.” — Ruman Ahmed
 
+---
 
-![Ruman Ahmed Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## ℹ️ Tips after you add this:
+
+1. **Pin your best repos** (the ones in “Featured Projects”) in your profile’s pinned repositories section.  
+2. Double-check how the README looks in **dark mode** and **mobile** — make sure badges & links don’t disappear.  
+3. Update it periodically (every few months) — add what you’re learning, new projects, etc.
+
+---
+
+If you like, I can generate a **version with real links** (I’ll fetch your real repos) and even a design-mock of how it will look. Do you want me to build that for **RumanCodes** now?
+::contentReference[oaicite:1]{index=1}
