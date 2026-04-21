@@ -1,6 +1,6 @@
 <h1 align="center">Ruman Ahmed</h1>
 <p align="center">
-  Software Developer • Technical Support Engineer • WordPress Ecosystem Builder
+  Software Developer • Technical Support Engineer • WordPress Ecosystem Builder • AI Automation Engineer 
 </p>
 
 <p align="center">
@@ -40,20 +40,20 @@ I am a developer focused on shipping reliable tools for real business use, espec
 
 ## Selected Repositories
 
-These highlights are aligned with your active public repositories and contribution direction:
+Public repositories and contribution direction:
 
 | Repository | What it demonstrates | Stack |
 | --- | --- | --- |
 | [emdash](https://github.com/RumanCodes/emdash) | Full-stack CMS contribution and modern TypeScript architecture (Astro-based CMS fork work). | TypeScript |
-| [fluent-auth](https://github.com/RumanCodes/fluent-auth) | Security-focused WordPress plugin development and maintenance. | PHP, WordPress |
+| [fluent-secuirty](https://github.com/WPManageNinja/fluent-security) | Security-focused WordPress plugin development and maintenance. | PHP, WordPress |
 | [easy-code-manager](https://github.com/RumanCodes/easy-code-manager) | Performance-oriented snippet and code management workflows for WordPress users. | PHP |
-| [fluent-content](https://github.com/RumanCodes/fluent-content) | Product-oriented plugin UX and AI-assisted content tooling direction. | Vue, WordPress |
-| [fluent-migrator](https://github.com/RumanCodes/fluent-migrator) | Plugin migration and data-transition tooling for ecosystem reliability. | PHP |
+| [wpordpress-develop](https://github.com/RumanCodes/wordpress-develop) | This repository is just a mirror of the WordPress subversion repository. | PHP, WordPress |
+| [fluent-smtp](https://github.com/WPManageNinja/fluent-smtp) | WordPress SMTP & Email Service API connection Plugin | PHP, Vue.js, WordPress |
 | [snippet-manager-browser-extension](https://github.com/RumanCodes/snippet-manager-browser-extension) | Developer productivity tooling beyond CMS boundaries. | JavaScript |
 
 ## What I Care About in Software
 
-- Clear UX for non-technical users.
+- Clear UX for users.
 - Safe defaults and maintainable internals.
 - Good diagnostics and faster troubleshooting loops.
 - Real-world performance over flashy complexity.
@@ -73,8 +73,8 @@ These highlights are aligned with your active public repositories and contributi
 
 - Email: algorithmsunlocks@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ruman-ahmed-38132a26b/
-- Portfolio: https://suitepress.org
+- Portfolio: https://suitepress.org/me
 
 <p align="center">
-  <strong>Open to collaboration on WordPress products, automation workflows, and developer tooling.</strong>
+  <strong>Open to collaboration on WordPress products, AI automation workflows, and developer tooling.</strong>
 </p>
