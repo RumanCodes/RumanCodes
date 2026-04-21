@@ -13,8 +13,6 @@
   I build practical products that make workflows faster, cleaner, and easier to maintain.
 </p>
 
-## Professional Summary
-
 I am a developer focused on shipping reliable tools for real business use, especially in the WordPress ecosystem. My background in technical support helps me design software that is not only functional, but also easy to adopt, debug, and scale.
 
 - Building and maintaining WordPress plugins and platform integrations.
@@ -38,7 +36,7 @@ I am a developer focused on shipping reliable tools for real business use, espec
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## Selected Repositories
+## Public Repositories
 
 Public repositories and contribution direction:
 
@@ -61,8 +59,6 @@ Public repositories and contribution direction:
 - Safe defaults and maintainable internals.
 - Good diagnostics and faster troubleshooting loops.
 - Real-world performance over flashy complexity.
-
-## GitHub Snapshot
 
 <p align="center">
   <a href="https://github.com/RumanCodes">
