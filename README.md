@@ -61,10 +61,6 @@ Public repositories and contribution direction:
 | [wpordpress-develop](https://github.com/RumanCodes/wordpress-develop) | This repository is just a mirror of the WordPress subversion repository. | PHP, WordPress |
 | [fluent-smtp](https://github.com/WPManageNinja/fluent-smtp) | WordPress SMTP & Email Service API connection Plugin | PHP, Vue.js, WordPress |
 | [snippet-manager-browser-extension](https://github.com/RumanCodes/snippet-manager-browser-extension) | Developer productivity tooling beyond CMS boundaries. | JavaScript |
-| [fluentforms-paytails](https://github.com/Suite-Press/fluentforms-paytails) | Payments analytics dashboards | PHP, WordPress, Vue.js |
-| [transfer-press](https://github.com/Suite-Press/transfer-press) | The Ultimate WordPress Plugin Downloader, Importer & Exporter | PHP, WordPress, Vue.js |
-| [file-size-pretty](https://github.com/suitepress/file-size-pretty) | NPM package | JavaScript |
-| [wp-plugin-init](https://github.com/Suite-Press/wp-plugin-init) | NPM package for WP Plugins creation framework | JavaScript |
 
 ## What I Care About in Software
 
